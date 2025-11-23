@@ -1,4 +1,6 @@
 Problem Statement
+
+
 The current manual method of managing a library system is inefficient, prone to errors, and lacks real-time tracking of book availability, issuance, and returns. Managing records of issued books, students, due dates, and fines becomes harder as the library grows. A simple automated system is needed to streamline operations and reduce manual workload.
 
 Scope of the Project
