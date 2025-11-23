@@ -35,20 +35,21 @@ Datetime: Python’s datetime module is used to manage and compare dates for boo
 
 Steps to Install & Run the Project
 
-Install Python:
+1. Install Python:
 Ensure you have Python 3.x installed on your machine. If not, you can download it from Python's official website.
 
 2. Clone or Download the Project:
 Clone the repository using Git or download the source code as a .zip file.
 
-3. Set Up the SQLite Database:
+3. Import the database library.db from github https://github.com/adarshsingh0112/VITyarthi-Project/blob/main/library.db
+
+4. Set Up the SQLite Database:
 Create a SQLite database file named library.db if it doesn't already exist. Below are the steps for creating the required tables.
 
-4. Run the Program:
+5. Run the Program:
 Run the main Python script to start the library management system
 
 python library_system.py
-
 
 Instructions for Testing
 
